@@ -1,0 +1,7 @@
+{"protocolVersion":"0.1.1","runnerVersion":null,"pid":1880,"type":"start","time":0}
+{"suite":{"id":0,"platform":"vm","path":"C:\\Users\\jcmug\\StudioProjects\\library_management\\test\\widget_test.dart"},"type":"suite","time":0}
+{"test":{"id":1,"name":"loading C:\\Users\\jcmug\\StudioProjects\\library_management\\test\\widget_test.dart","suiteID":0,"groupIDs":[],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":1}
+{"count":1,"time":8,"type":"allSuites"}
+{"testID":1,"error":"Failed to load \"C:\\Users\\jcmug\\StudioProjects\\library_management\\test\\widget_test.dart\": Compilation failed for testPath=C:\\Users\\jcmug\\StudioProjects\\library_management\\test\\widget_test.dart","stackTrace":"","isFailure":false,"type":"error","time":15539}
+{"testID":1,"result":"error","skipped":false,"hidden":false,"type":"testDone","time":15550}
+{"success":false,"type":"done","time":15554}
